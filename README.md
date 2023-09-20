@@ -57,6 +57,8 @@ Caso o usúario clique em "Explorar" na tela de inicio, ele vem para esta tela o
 
 # Versão de Smartphone
 
+Por causa da portabilidade, esta versão perdeu alguns recursos que estão disponíveis na versão PC, porém isso não prejudica o protótipo.
+
 ## Tela de login
 
 Essa tela possui as mesmas opções de navegação que a versão PC.
@@ -65,6 +67,37 @@ Essa tela possui as mesmas opções de navegação que a versão PC.
 
 ## Tela de inicio
 
-Devido a tela menor, ela perdeu a aba de albúns recentes. Porém, ela mantém as mesma opções de navegação
+Devido a tela menor, ela perdeu a aba de albúns recentes. Porém, ela mantém as mesma opções de navegação.
 
 ![Inicio-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Inicio-SM.png)
+
+## Tela de musica
+
+As funcionalidades da versão PC, foram bem adptadas e mantidas.
+
+![Musica-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Musica-SM.png)
+
+## Tela de letra
+
+Houve uma redução de conteúdo.
+
+![Letra-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Letra-SM.png)
+
+## Página do artista
+
+Pela adptação, teve de perder a aba, top 3 albúns mais escutados.
+
+![Artista-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Artista-SM.png)
+
+## Tela de explorar
+
+Teve de perder 2 gêneros musicais, porém se mantém efetiva na sua proposta.
+
+![Explorar-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Explorar-SM.png)
+
+# Tecnologias utilizadas
+##Front End
+Figma
+
+### 08/2023
+
