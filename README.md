@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://www.figma.com/file/Fek8ml7EY9NpOrE0ffBo6L/Projeto-Musical?type=design&node-id=0%3A1&mode=design&t=j5OUdZUokTdoYzi8-1
+https://www.figma.com/community/file/1286144614614125562/projeto-musical
 
 O professor Gabriel Augusto (https://github.com/gabaugusto), do Instituto Proa, solicitou que eu desenvolvesse um protótipo de uma plataforma musical, utilizando o Figma. Esse protótipo poderia ser para computadores, tablets, smartphones ou watch.
 
