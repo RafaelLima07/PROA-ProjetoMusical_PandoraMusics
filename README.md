@@ -99,5 +99,5 @@ Teve de perder 2 gêneros musicais, porém se mantém efetiva na sua proposta.
 ##Front End
 Figma
 
-### 08/2023
+### Projeto desenvolvido em: 08/2023
 
