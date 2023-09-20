@@ -59,4 +59,12 @@ Caso o usúario clique em "Explorar" na tela de inicio, ele vem para esta tela o
 
 ## Tela de login
 
-![Login-SM]()
+Essa tela possui as mesmas opções de navegação que a versão PC.
+
+![Login-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Login-SM.png)
+
+## Tela de inicio
+
+Devido a tela menor, ela perdeu a aba de albúns recentes. Porém, ela mantém as mesma opções de navegação
+
+![Inicio-SM](https://github.com/RafaelLima07/PROA-ProjetoMusical-Pandora-Musics/blob/main/Assets/Inicio-SM.png)
